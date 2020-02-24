@@ -23,3 +23,7 @@ def linearSearch(myvals, n):
         if i == n:
             return "Found"
     return "Not Found"
+
+
+def square(a):
+    return a*a
